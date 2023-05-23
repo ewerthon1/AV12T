@@ -1,6 +1,8 @@
-    header{
+    cabecalho {
         background-color: rgb(45, 45, 179);
         color: white;
+    display: flex;
+    justify-content: space-around;
     }
 
     .cabecalho-imagem{
